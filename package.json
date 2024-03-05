@@ -5,8 +5,9 @@
   "repository": "https://github.com/gksksla7140/rft-data.git",
   "author": "Justin Han <gksksla7140@gmail.com>",
   "license": "MIT",
-  "scripts": {
-    "start": "node \"build/index.js"},
+"scripts": {
+  "start": "node \"build/index.js\""
+  },
   "dependencies": {
     "@aws-sdk/util-dynamodb": "^3.525.0",
     "aws-sdk": "^2.1570.0",
